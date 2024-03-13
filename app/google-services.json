@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565747748902",
+    "project_id": "cloning-d3b6a",
+    "storage_bucket": "cloning-d3b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565747748902:android:db9d79599fad25188e56e7",
+        "android_client_info": {
+          "package_name": "com.example.cloning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbvzPQdxtuUVCONe53MfiEgvQ9qjo55sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cloning</string>
+    <string name="Settings">Settings</string>
+    <string name="Group_chat">Group Chat</string>
+    <string name="Log_out">Log Out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
